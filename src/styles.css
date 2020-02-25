@@ -193,7 +193,7 @@ main .sobre-nosotros {
     flex-direction: column;
     padding:0px 10px 0px 10px;
  }
- .containerDescription p > a:hover {
+ .containerDescription p > a {
     text-decoration: underline;
  }
 
