@@ -140,8 +140,8 @@ main .sobre-nosotros {
 }
 
 .imagen-trabajos {
-    width: 44%;
-    height: 350px;
+    width: 23%;
+    height: 320px;
     margin-bottom: 10px;
     overflow: hidden;
     position: relative;
@@ -185,7 +185,7 @@ main .sobre-nosotros {
 
 .containerDescription {
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 12px;
     /* font-family: 'Niramit', sans-serif; */
     display: flex;
     text-align: center;
