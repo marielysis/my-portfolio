@@ -140,9 +140,9 @@ main .sobre-nosotros {
 }
 
 .imagen-trabajos {
-    width: 23%;
-    height: 320px;
-    margin-bottom: 10px;
+    width: 30%;
+    height: 400px;
+    margin-bottom: 2rem;
     overflow: hidden;
     position: relative;
     cursor: pointer;
